@@ -10,8 +10,16 @@ header{background-color: #e5e5e5;
   
 }
 
-
-
    .negrita-italica{font-weight: bold;
 font-style: italic;
 }
+
+h2{ background-color: #c4c4c4;
+    color: #005677;}
+
+
+    H3{background-color: #005677;
+        color: #ffffff;
+        font-family:'Times New Roman', Times, serif ;
+        align-items: center;
+        text-align: center;}
