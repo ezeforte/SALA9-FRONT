@@ -1,19 +1,21 @@
+*{font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
 h1{ background-color: #c4c4c4;
 color: #005677;
 font-family:'Times New Roman', Times, serif ;
 align-items: center;
 text-align: center;
 }
-header{
-    background-color: #c4c4c4;
-    align-content: center;
-    text-align: center;
+h1{
+    background-image: url("https://mdn.mozillademos.org/files/6457/mdn_logo_only_color.png");
+
+}
+
+img{
+       float: right;}  
     
 
-    
-   
-  
-}
 
    .negrita-italica{font-weight: bold;
 font-style: italic;
